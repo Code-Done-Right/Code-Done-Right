@@ -11,21 +11,21 @@ By Fiverr (Will be Inactive for some time): https://www.fiverr.com/code_done_rig
 
 # 🌟 Commonly Contributed To
 
-1.
+**1.**
 ⭐ [Coin Bot](https://github.com/Code-Done-Right/Coin-Bot)
 This is my main project on my account and is a discord.py bot, named CoinBot.
 
 ![Coin Bot Repo](Coin_Bot.png)
 
 
-2.
+**2.**
 [PostgreSQL Practice](https://github.com/Code-Done-Right/PostgreSQL-Practice)
 This repo is for practicing and learning PostGreSQL.
 
 ![PostgreSQL Repo](PostgreSQL_practice.png)
 
 
-3.
+**3.**
 [Fast API](https://github.com/Code-Done-Right/Fast-API-Testing)
 This repo is dedicated to the popular python web framework, FastAPI!
 I'll be learning this amazing module here!
@@ -33,14 +33,14 @@ I'll be learning this amazing module here!
 ![Fast API Repo](Fast_API.png)
 
 
-4.
+**4.**
 [JavaScript](https://github.com/Code-Done-Right/JavaScript-Project)
 This repository is for javascript, the popular for-website language.
 
 ![Javascript Repo](JavaScript.png)
 
 
-5.
+**5.**
 [Node JS](https://github.com/Code-Done-Right/Learning-NodeJS)
 Learning the non-web "language", NodeJS.
 
