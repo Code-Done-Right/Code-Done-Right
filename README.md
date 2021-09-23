@@ -16,6 +16,10 @@ By Fiverr (Will be Inactive for some time): https://www.fiverr.com/code_done_rig
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Code-Done-Right&repo=EconomicaBot)](https://github.com/Code-Done-Right/EconomicaBot)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Code-Done-Right&repo=Learning-NodeJS)](https://github.com/Code-Done-Right/Learning-NodeJS)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Code-Done-Right&repo=Fast-API-Testing)](https://github.com/Code-Done-Right/Fast-API-Testing)
+
 
 # 👥 Promotion
 
