@@ -14,7 +14,7 @@ By Fiverr (Will be Inactive for some time): https://www.fiverr.com/code_done_rig
 
 # 👨‍💻 Most Used Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Code-Done-Right&langs_count=5)](https://github.com/Code-Done_Right)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Code-Done-Right&layout=compact)](https://github.com/Code-Donbe-Right/Economica)
 
 # 🌟 Commonly Contributed To
 
