@@ -14,8 +14,6 @@ By Fiverr (Will be Inactive for some time): https://www.fiverr.com/code_done_rig
 
 # 👨‍💻 Most Used Languages
 
-![test](https://png.pngitem.com/pimgs/s/108-1083749_white-discord-logo-png-png-free-discord-icon.png)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Code-Done-Right&layout=compact)](https://github.com/Code-Donbe-Right/Economica)
 
 # 🌟 Commonly Contributed To
