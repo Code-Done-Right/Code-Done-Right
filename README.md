@@ -8,9 +8,9 @@ I'm an Intermediate-Advanced Python nerd who does goofy stuff in python and freq
 
 ## Contact Me
 
-By Discord (do NOT send me friend requests, my DMs are open): **Science Done Right#9144**
-By Email: sciencedoneright5@gmail.com
-By Fiverr (Will be Inactive for some time): https://www.fiverr.com/code_done_right?up_rollout=true
+[**Discord**](https://discord.gg/bTnheyspUm)
+
+###### **Email:** sciencedoneright5@gmail.com
 
 # 👨‍💻 Most Used Languages
 
