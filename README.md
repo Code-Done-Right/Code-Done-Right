@@ -23,10 +23,3 @@ By Fiverr (Will be Inactive for some time): https://www.fiverr.com/code_done_rig
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Code-Done-Right&repo=Economica)](https://github.com/Code-Done-Right/Ecopnomica)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Code-Done-Right&repo=Fast-API-Testing)](https://github.com/Code-Done-Right/Fast-API-Testing)
-
-
-# 👥 Promotion
-
-Anyways, I'm also post okay videos on YouTube so maybe [go check it out..?](https://youtube.com/Sciencedoneright)
-
-[Shameless discord server promotion:](https://discord.gg/cBRpmW2Csh)
