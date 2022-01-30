@@ -8,7 +8,7 @@ I'm an Intermediate-Advanced Python nerd who does goofy stuff in python and freq
 
 ## Contact Me
 
-Cantact me through [**Discord!**](https://discord.gg/bTnheyspUm) I'm very active there :D
+Contact me through [**Discord!**](https://discord.gg/bTnheyspUm) I'm very active there :D
 
 ###### **Email:** sciencedoneright5@gmail.com
 
