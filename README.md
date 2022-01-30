@@ -10,8 +10,6 @@ I'm an Intermediate-Advanced Python nerd who does goofy stuff in python and freq
 
 Contact me through [**Discord!**](https://discord.gg/bTnheyspUm) I'm very active there :D
 
-###### **Email:** sciencedoneright5@gmail.com
-
 # 👨‍💻 Most Used Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Code-Done-Right&layout=compact)](https://github.com/Code-Donbe-Right/Economica)
