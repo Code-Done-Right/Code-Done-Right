@@ -16,8 +16,8 @@ Contact me through [**Discord!**](https://discord.gg/bTnheyspUm) I'm very active
 
 # 🌟 Commonly Contributed To
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Code-Done-Right&repo=Sciencium)](https://github.com/Code-Done-Right/Sciencium)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Code-Done-Right&repo=Sciencium&text_color=dbdbdb&bg_color=191919)](https://github.com/Code-Done-Right/Sciencium)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Code-Done-Right&repo=Economica)](https://github.com/Code-Done-Right/Ecopnomica)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Code-Done-Right&repo=Economica&text_color=dbdbdb&bg_color=191919)](https://github.com/Code-Done-Right/Ecopnomica)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Code-Done-Right&repo=Fast-API-Testing)](https://github.com/Code-Done-Right/Fast-API-Testing)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Code-Done-Right&repo=Fast-API-Testing&text_color=dbdbdb&bg_color=191919)](https://github.com/Code-Done-Right/Fast-API-Testing)
