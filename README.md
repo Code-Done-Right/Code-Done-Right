@@ -12,7 +12,7 @@ Contact me through [**Discord!**](https://discord.gg/bTnheyspUm) I'm very active
 
 # 👨‍💻 Most Used Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Code-Done-Right&layout=compact)](https://github.com/Code-Donbe-Right/Economica)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Code-Done-Right&layout=compact&bg_color=191919&text_color=dbdbdb)](https://github.com/Code-Donbe-Right/Economica)
 
 # 🌟 Commonly Contributed To
 
