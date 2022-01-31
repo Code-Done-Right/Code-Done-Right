@@ -8,7 +8,9 @@ I'm an Intermediate-Advanced Python nerd who does goofy stuff in python and freq
 
 ## Contact Me
 
-Contact me through [**Discord!**](https://discord.gg/bTnheyspUm) I'm very active there :D
+<p align='center'>
+    <a href='https://discord.gg/bTnheyspUm'><img src='discord_logo.png'/></a>
+</p>
 
 # 👨‍💻 Most Used Languages
 
