@@ -6,11 +6,36 @@ I'm an Intermediate-Advanced Python nerd who does goofy stuff in python and freq
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Code-Done-Right&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## Contact Me
+### Contact Me
 
 <p align='center'>
     <a href='https://discord.gg/bTnheyspUm'><img src='discord_logo.png'/></a>
 </p>
+
+### What I use to make my projects
+```
+>>> Code Editors:
+VS Code
+Sublime
+
+>>> Languages and databases:
+Python
+JavaScript
+Node.js
+HTML
+CSS
+PostgreSQL
+SQLite3
+MySQL
+
+>>> Frameworks, Modules, deployment tools:
+React
+hikari
+lightbulb (also known as hikari-lightbulb)
+discord.py (not maintained)
+React-Native
+Firebase
+```
 
 # 👨‍💻 Most Used Languages
 
