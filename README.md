@@ -35,6 +35,11 @@ lightbulb (also known as hikari-lightbulb)
 discord.py (not maintained)
 React-Native
 Firebase
+
+>>> Miscellaneous
+Git
+Github
+Trello
 ```
 
 # 👨‍💻 Most Used Languages
