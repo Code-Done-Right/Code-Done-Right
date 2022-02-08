@@ -3,7 +3,7 @@
 Hi there! I'm **Science Done Right**, an Indian self learned python programmer.
 I'm an Intermediate-Advanced Python nerd who does goofy stuff in python and frequently abandons old projects LOL
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Code-Done-Right&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Code-Done-Right&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Contact Me
