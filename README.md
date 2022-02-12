@@ -44,12 +44,12 @@ Trello
 
 # 👨‍💻 Most Used Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Code-Done-Right&layout=compact&bg_color=191919&text_color=dbdbdb)](https://github.com/Code-Donbe-Right/Economica)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Code-Done-Right&layout=compact&bg_color=191919&text_color=dbdbdb&hide_border=true)](https://github.com/Code-Donbe-Right/Economica)
 
 # 🌟 Commonly Contributed To
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Code-Done-Right&repo=Sciencium&text_color=dbdbdb&bg_color=191919)](https://github.com/Code-Done-Right/Sciencium)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Code-Done-Right&repo=Sciencium&text_color=dbdbdb&bg_color=191919&hide_border=true)](https://github.com/Code-Done-Right/Sciencium)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Code-Done-Right&repo=Economica&text_color=dbdbdb&bg_color=191919)](https://github.com/Code-Done-Right/Economica)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Code-Done-Right&repo=Economica&text_color=dbdbdb&bg_color=191919&hide_border=true)](https://github.com/Code-Done-Right/Economica)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Code-Done-Right&repo=Fast-API-Testing&text_color=dbdbdb&bg_color=191919)](https://github.com/Code-Done-Right/Fast-API-Testing)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Code-Done-Right&repo=Fast-API-Testing&text_color=dbdbdb&bg_color=191919&hide_border=true)](https://github.com/Code-Done-Right/Fast-API-Testing)
