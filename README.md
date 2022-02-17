@@ -34,6 +34,9 @@ React
 hikari
 lightbulb (also known as hikari-lightbulb)
 discord.py (not maintained)
+FastAPI
+Django
+Flask
 React-Native
 Firebase
 
