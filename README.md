@@ -22,6 +22,7 @@ Sublime
 Python
 JavaScript
 Node.js
+Golang
 HTML
 CSS
 PostgreSQL
