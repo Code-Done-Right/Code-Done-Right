@@ -1,7 +1,8 @@
 # 👋 About
 
 Hi there! I'm **Science Done Right**, an Indian self learned python programmer.
-I'm an Intermediate-Advanced Python nerd who does goofy stuff in python and frequently abandons old projects LOL
+I code in Python, JavaScript, and I like webdev! Hit me up on discord by cliking on the below link.
+Wanna contribute or support my projects? Join the discord! <3
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Code-Done-Right&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
