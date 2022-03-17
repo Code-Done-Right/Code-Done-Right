@@ -55,6 +55,6 @@ Trello
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Code-Done-Right&repo=Sciencium&text_color=dbdbdb&bg_color=191919&hide_border=true)](https://github.com/Code-Done-Right/Sciencium)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Code-Done-Right&repo=Economica&text_color=dbdbdb&bg_color=191919&hide_border=true)](https://github.com/Code-Done-Right/Economica)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Code-Done-Right&repo=devcord.py&text_color=dbdbdb&bg_color=191919&hide_border=true)](https://github.com/Code-Done-Right/devcord.py)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Code-Done-Right&repo=Fast-API-Testing&text_color=dbdbdb&bg_color=191919&hide_border=true)](https://github.com/Code-Done-Right/Fast-API-Testing)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Code-Done-Right&repo=Economica&text_color=dbdbdb&bg_color=191919&hide_border=true)](https://github.com/Code-Done-Right/Economica)
