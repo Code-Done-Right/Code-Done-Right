@@ -19,31 +19,40 @@ Wanna contribute or support my projects? Join the discord! <3
 VS Code
 Sublime
 
->>> Languages and databases:
+>>> Languages, databases and others:
 Python
 JavaScript
 Node.js
 Golang
+
 HTML
 CSS
+
 PostgreSQL
 SQLite3
 MySQL
 
+Tailwind CSS
+
 >>> Frameworks, Modules, deployment tools:
 React
+Next
+React-Native
+
 hikari
 lightbulb (also known as hikari-lightbulb)
 discord.py (not maintained)
+
 FastAPI
 Django
 Flask
-React-Native
+
 Firebase
 
->>> Miscellaneous
+>>> Miscellaneous (VCS, Organization, etc.)
 Git
 Github
+
 Trello
 ```
 
