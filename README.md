@@ -22,12 +22,11 @@ Sublime
 >>> Languages, databases and others:
 Python
 JavaScript
+TypeScript
 Node.js
 Golang
-
 HTML
 CSS
-
 PostgreSQL
 SQLite3
 MySQL
@@ -38,11 +37,11 @@ Tailwind CSS
 React
 Next
 React-Native
-
 hikari
 lightbulb (also known as hikari-lightbulb)
-discord.py (not maintained)
-
+discord.py
+devcord.py
+aiohttp
 FastAPI
 Django
 Flask
@@ -52,7 +51,6 @@ Firebase
 >>> Miscellaneous (VCS, Organization, etc.)
 Git
 Github
-
 Trello
 ```
 
