@@ -10,7 +10,7 @@ Wanna contribute or support my projects? Join the discord! <3
 ### Contact Me
 
 <p align='center'>
-    <a href='https://discord.gg/bTnheyspUm'><img src='discord_logo.png'/></a>
+    <a href='https://discord.gg/r4pudcvBb7'><img src='discord_logo.png'/></a>
 </p>
 
 ### What I use to make my projects
