@@ -37,6 +37,8 @@ Tailwind CSS
 React
 Next
 React-Native
+rich
+colorama
 hikari
 lightbulb (also known as hikari-lightbulb)
 discord.py
